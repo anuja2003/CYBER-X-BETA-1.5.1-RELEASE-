@@ -1,7 +1,7 @@
 {
   "name": "CYBER-X 1.5 BETA",
   "description": "ᴄʏʙᴇʀ-x ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ",
-  "repository": "https://github.com/darkalphaxteam/CYBER-X-BETA-1.5.1-RELEASE-",
+  "repository": "https://github.com/anuja2003/CYBER-X-BETA-1.5.1-RELEASE-",
   "logo": "https://telegra.ph/file/0c126ae19dca72ab0cae0.jpg",
   "keywords": ["nodejs", "Bot", "WhatsApp Bot", "WhatsApp Automation", "Multi Device"],
    "env": {
@@ -18,17 +18,17 @@
 			"BOT_NUMBER": {
 			"description": "Change the Bot Number",
 			"required": true,
-			"value": "94778962038"
+			"value": "94712289566"
 			},
 			"STICKERS_NAME": {
 			"description": "Add the Stickers Name",
 			"required": true,
-			"value": "ᴋɪɴɢ.ᴅᴀʀᴋ ᴀʟᴘʜᴀ"
+			"value": "ᴋɪɴɢ.ᴅᴀʀᴋ Bot"
 			},
 			"OWNER_NAME": {
 			"description": "Add Your Name",
 			"required": true,
-			"value": "ᴅᴀʀᴋ ᴀʟᴘʜᴀ"
+			"value": "ᴅᴀʀᴋ Bot"
 			},
 			"FOOTER": {
 			"description": "Add Your Button Massage's Footer",
@@ -38,32 +38,32 @@
 			"ALIVE_IMAGE": {
 			"description": "Add Your Alive Image Derect Link",
 			"required": true,
-			"value": "https://telegra.ph/file/bd50f0727084519bf78e9.jpg"
+			"value": "https://telegra.ph/file/91189e6a925683868095d.jpg"
 			},
 			"ALIVE_MSG": {
 			"description": "Add Your Alive massage",
 			"required": true,
-			"value": "Hellow I'm Alive"
+			"value": "Hellow I'm ᴅᴀʀᴋ Bot"
 			},
 			"MENU_IMAGE": {
 			"description": "Add Your Name",
 			"required": true,
-			"value": "https://telegra.ph/file/bd50f0727084519bf78e9.jpg"
+			"value": "https://telegra.ph/file/91189e6a925683868095d.jpg"
 			},
 			"WELCOME_IMAGE": {
 			"description": "Add Your Welcome Image",
 			"required": true,
-			"value": "https://telegra.ph/file/ec6ee52c715d16837c7ca.jpg"
+			"value": "https://telegra.ph/file/91189e6a925683868095d.jpg"
 			},
 			"GOODBYE_IMAGE": {
 			"description": "Add Your Goodbye Image",
 			"required": true,
-			"value": "https://telegra.ph/file/4a576ba9ee45994d62aaa.jpg"
+			"value": "https://telegra.ph/file/91189e6a925683868095d.jpg"
 			},
 			"CAPTION": {
 			"description": "Add Your Downloaded Video's Caption",
 			"required": true,
-			"value": "ʙʏ ᴄʏʙᴇʀ-x ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ"
+			"value": "ʙʏ  ᴡʜᴀᴛꜱᴀᴘᴘ DARK ʙᴏᴛ"
 			},
 			"YOUR_WEB": {
 			"description": "Add Your web or a nother Link",
@@ -73,7 +73,7 @@
 			"PREMIUM_NUMBER" : {
 			"description": "Add your Number For unlock all Bot Features",
 			"required": true,
-			"value": "94711421243"
+			"value": "94712289566"
 			},
 			"SONGUP_MSG": {
 			"description": "Add Massage For Song Uploading",
@@ -88,12 +88,12 @@
 			"DEPLOYER_NAME": {
 			"description": "Add Your Name",
 			"required": true,
-			"value": "DARK ALPHA"
+			"value": "DARK BOT"
 			},
 			"LOCATION": {
 			"description": "Add Your Location",
 			"required": true,
-			"value": "Sri Lanka, Kurunagala, Nikaweratiya"
+			"value": "Sri Lanka, Gampha, Mirigama"
 			},
 			"CALL_BLOCK": {
 			"description": "Call Block system",
@@ -113,7 +113,7 @@
 			"INBOX_MSG": {
 			"description": "Add Your Inbox Back Massage",
 			"required": true,
-			"value": "*ᴄʏʙᴇʀ-x ᴍᴅ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴏɴʟʏ ᴡᴏʀᴋɪɴɢ ɪɴ ɢʀᴏᴜᴘꜱ*"
+			"value": "*☠️𝗗𝗔𝗥𝗞 𝗕𝗢𝗧☠️ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴏɴʟʏ ᴡᴏʀᴋɪɴɢ ɪɴ ɢʀᴏᴜᴘꜱ*"
 			}
 			
           },
